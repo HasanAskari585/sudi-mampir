@@ -121,7 +121,7 @@ Password : admin123
 
 ```
 Username : kasir
-Password : kasir123
+Password : admin123
 ```
 
 > **Catatan:** Sesuaikan username dan password di atas dengan data yang terdapat pada file `database.json`.
